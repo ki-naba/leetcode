@@ -25,6 +25,7 @@ class Solution:
                             queue.append((neighbor, 1 if level == 0 else 0))
                     
         return True
+    
 
         
 # @lc code=end
